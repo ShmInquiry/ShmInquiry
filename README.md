@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Rust projects
 - 📫 How to reach me Sh.m.Inquiry@outlook.com
 - 😄 Pronouns: Leo (it is my dojo nickname)
-- ⚡ Fun fact: - One thing that I know for certain; and it is that I know nothing.
+- ⚡ Fun fact: - One thing I know for certain, one thing for sure; it is that I know nothing.
 
 <!---
 ShmInquiry/ShmInquiry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
