@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Unconventional Fullstack development
 - 💞️ I’m looking to collaborate on Rust projects
 - 📫 How to reach me Sh.m.Inquiry@outlook.com
-- 😄 Pronouns: Leo (it is my dojo nickname)
 - ⚡ Fun fact: - One thing I know for certain, one thing for sure; it is that I know nothing.
 
 <!---
